@@ -15,7 +15,8 @@
     "gulp-imagemin": "^7.1.0",
     "gulp-sass": "^6.0.0",
     "gulp-uglify": "^3.0.2",
-    "sass": "^1.83.4"
+    "sass": "^1.83.4",
+    "slick-carousel": "^1.8.1"
   },
   "dependencies": {
     "del": "^6.0.0",
